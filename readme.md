@@ -82,3 +82,4 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 1. Initial setup: Creating the app: Lara_Indonesia_Made58
 2. Create database, user auth, register a new user
 3. Modified database.php in config file
+4. Modifying the file structures to redirect the authenticated user to home
